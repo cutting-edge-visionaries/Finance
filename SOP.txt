@@ -50,3 +50,6 @@ Members -
 -----------------------------------------------------------------------------------
 
 
+6. 	Hemant Karanjkar
+      My purpose for joining this group is to learn about global markets and current financial conditions, and to learn various
+      solutions of economy related problems using data science and to grow skills for effective teamwork. 
